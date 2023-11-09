@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Task 1
 
 # Write a program that prints a cheery message (such as "Hello World") on the
